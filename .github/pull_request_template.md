@@ -9,5 +9,5 @@
 
 ## Checklist
 - [ ] Self-reviewed
-- [ ] Tests updated/added (if needed)
-- [ ] Docs/README updated (if needed)
+- [ ] Tests updated/added
+- [ ] Docs/README updated
