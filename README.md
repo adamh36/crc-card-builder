@@ -85,7 +85,5 @@ Deploy via [Vercel](https://vercel.com) or Node‑compatible host. E
 ✅ **Access:** Run locally at `http://localhost:3000/projects`
 
 
-# Default Next.js Documentation
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
